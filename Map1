@@ -11,6 +11,6 @@
    crossorigin=""></script>
   </head>
   <body>
-    Page elements go here.
-  </body>
+ <div id="mapid"></div>
+ </body>
 </html>
